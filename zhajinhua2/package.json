@@ -1,0 +1,25 @@
+{
+  "name": "zhajinhua",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loocer/zhajinhua.git"
+  },
+  "author": "zzw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loocer/zhajinhua/issues"
+  },
+  "homepage": "https://github.com/loocer/zhajinhua#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "express-session": "^1.15.6",
+    "parseurl": "^1.3.2",
+    "socket.io": "^2.0.4"
+  }
+}
